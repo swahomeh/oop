@@ -1,7 +1,8 @@
 package za.access;
 
+// java bean
 public class AccessMe {
-	protected String name;
+	private String name;
 
 	public String getName () {
 		return name;
