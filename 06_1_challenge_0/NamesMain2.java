@@ -1,13 +1,13 @@
-public class NamesMain1 {
+public class NamesMain2 {
 	private String name;
 	private String surname;
 	private int age;
 
 	public static void main (String args[]) {
-		NamesMain1 obj = new NamesMain1 ();
-		NameGetter1 gname = new NameGetter1 ();
-		SurnameGetter1 sname = new SurnameGetter1 ();
-		AgeGetter1 gage = new AgeGetter1 ();		
+		NamesMain2 obj = new NamesMain2 ();
+		NameGetter2 gname = new NameGetter2 ();
+		SurnameGetter2 sname = new SurnameGetter2 ();
+		AgeGetter2 gage = new AgeGetter2 ();		
 
 		obj.name = gname.getName();
 		obj.surname = sname.getSurname();
