@@ -5,7 +5,7 @@ public class Nested2 {
 		}
 	}
 
-	public static void main(String[] args) {
-		Inner inner = new Inner();
-	}
+	// public static void main(String[] args) {
+	// 	Inner inner = new Inner();
+	// }
 }
