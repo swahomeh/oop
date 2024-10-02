@@ -6,8 +6,8 @@ public class Nested1 {
 
 	}
 
-	public static void main (String[] args) {
-		Nested1 outer = new Nested1();
-		Inner inner = outer.new Inner();
-	}
+	// public static void main (String[] args) {
+	// 	Nested1 outer = new Nested1();
+	// 	Inner inner = outer.new Inner();
+	// }
 }
