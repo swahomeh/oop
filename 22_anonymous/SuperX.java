@@ -1,4 +1,3 @@
-public class SuperX {
-	public void doSomething(){     
-	}
+public interface SuperX {
+	public void doSomething();
 }
